@@ -75,10 +75,7 @@ Open `index.html` and update:
 ---
 
 ## 📸 Preview
-
-> Add a screenshot of your site here:
->
-> ![Portfolio Preview](profile.png)
+![Portfolio Preview](profile.png)
 
 ---
 
