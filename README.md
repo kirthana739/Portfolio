@@ -78,7 +78,7 @@ Open `index.html` and update:
 
 > Add a screenshot of your site here:
 >
-> `![Portfolio Preview](screenshot.png)`
+> ![Portfolio Preview](profile.png)
 
 ---
 
