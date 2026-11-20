@@ -2,7 +2,7 @@
 
 A responsive personal portfolio for **Kirthana Ganesh Kunder**, a third-year BCA student building data analytics platforms and full-stack web apps. It is a single-page site built with **HTML5, CSS3 and vanilla JavaScript**, with no frameworks and no build step.
 
-🔗 **Live site:** [https://kirthana739.github.io/Portfolio/](https://kirthana739.github.io/Portfolio/)
+🔗 **Live site:** [https://kirthana739.github.io/Portfolio/](https://kirthana739.github.io/Portfolio/index_portfolio.html)
 
 ---
 
